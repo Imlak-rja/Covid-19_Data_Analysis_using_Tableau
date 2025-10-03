@@ -78,6 +78,6 @@ The following questions we asked and then created visuals from Covid-19 Dataset.
 
 ![Dashboard 3 Corona](https://user-images.githubusercontent.com/124501309/223772360-dd70f295-7562-4824-a5cd-e7f2fd8d9b18.png)
 
-[Go to my LinkedIn](https://www.linkedin.com/in/md-imlak/) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7186325113116540928/) 🌐
 
 
